@@ -1,4 +1,4 @@
-/*This is the xml code of a simple calculator**/
+/*This is the xml code of a networking channel*/
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
